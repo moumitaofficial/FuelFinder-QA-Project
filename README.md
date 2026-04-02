@@ -25,7 +25,7 @@ The goal is to ensure system functionality, reliability, and user experience thr
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Manual Testing
 - Microsoft Excel / Word
 - Basic QA methodology (SDLC/STLC)
